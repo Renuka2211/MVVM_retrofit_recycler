@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM_retrofit_recycler</string>
+    <string name="space"> </string>
+</resources>
