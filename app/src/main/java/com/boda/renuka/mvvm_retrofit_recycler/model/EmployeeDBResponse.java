@@ -20,7 +20,7 @@ public class EmployeeDBResponse {
     private Integer totalPages;
     @SerializedName("data")
     @Expose
-    private List<Employee> employee = null;
+    private List<Employee> employee = null;//
     public Integer getPage() {
         return page;
     }
